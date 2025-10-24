@@ -1,0 +1,5 @@
+{
+  "name": "Leitfaden: Der Comic",
+  "description": "A web application that generates a comic strip based on a satirical take on the omnipresence of guidelines ('Leitfaden') in modern work, especially education.",
+  "requestFramePermissions": []
+}
